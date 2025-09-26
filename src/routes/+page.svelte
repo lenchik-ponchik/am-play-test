@@ -2,10 +2,11 @@
 	<div class="mx-auto">
 		<div class="grid grid-cols-1 md:grid-cols-2">
 			<div class="outline-1 outline-dashed p-4">
+				<p class="font-mono mb-2 text-xs">MUX</p>
 				<div style="position:relative;aspect-ratio:16/9;">
 					<iframe
 						loading="lazy"
-						src="https://player.mux.com/rR8P8mSaKDzz02TsftugTUdI00cQPJX00oy"
+						src="https://player.mux.com/Kh8TWed25cwVqhTjWdhWmWbmfBVvQqwsKi84L8Gdjow?metadata-video-title=30_original&video-title=30_original"
 						title="Mux video player"
 						style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
 						allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
@@ -16,6 +17,7 @@
 			</div>
 
 			<div class="outline-1 outline-dashed p-4">
+				<p class="font-mono mb-2 text-xs">GUMLET</p>
 				<div style="position:relative;aspect-ratio:16/9;">
 					<div style="position:relative;aspect-ratio:16/9;">
 						<iframe
@@ -31,6 +33,7 @@
 			</div>
 
 			<div class="outline-1 outline-dashed p-4">
+				<p class="font-mono mb-2 text-xs">KINESCOPE</p>
 				<div style="position: relative; padding-top: 56.25%; width: 100%">
 					<iframe
 						loading="lazy"

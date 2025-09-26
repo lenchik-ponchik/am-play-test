@@ -30,5 +30,8 @@
 		"onlyBuiltDependencies": [
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"videojs-mux": "^4.21.11"
 	}
 }
