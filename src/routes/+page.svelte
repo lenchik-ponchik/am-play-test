@@ -19,16 +19,14 @@
 			<div class="outline-1 outline-dashed p-4">
 				<p class="font-mono mb-2 text-xs">GUMLET</p>
 				<div style="position:relative;aspect-ratio:16/9;">
-					<div style="position:relative;aspect-ratio:16/9;">
-						<iframe
-							loading="lazy"
-							title="Gumlet video player"
-							src="https://play.gumlet.io/embed/68d6bde0dd32d42019fde4b4"
-							style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
-							allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;"
-						>
-						</iframe>
-					</div>
+					<iframe
+						loading="lazy"
+						title="Gumlet video player"
+						src="https://play.gumlet.io/embed/68d6bde0dd32d42019fde4b4"
+						style="border:none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"
+						allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture; fullscreen;"
+					>
+					</iframe>
 				</div>
 			</div>
 
@@ -47,7 +45,18 @@
 				</div>
 			</div>
 
-			<div class="outline-1 outline-dashed p-4"></div>
+			<div class="outline-1 outline-dashed p-4">
+				<p class="font-mono mb-2 text-xs">YANDEX VIDEO</p>
+				<div style="position: relative; padding-top: 56.25%; width: 100%">
+					<iframe
+						src="https://runtime.video.cloud.yandex.net/player/video/vplvbwkbssn3qu4gctxb?autoplay=0&mute=0"
+						allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media"
+						style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"
+						frameborder="0"
+						scrolling="no"
+					></iframe>
+				</div>
+			</div>
 		</div>
 	</div>
 </main>
